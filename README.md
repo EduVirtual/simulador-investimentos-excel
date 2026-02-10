@@ -22,6 +22,9 @@ Desafio proposto pela [DIO](https://www.dio.me/) no bootcamp de Excel.
 3. Preencha apenas as células amarelas (Dados de Entrada).
 4. Confira o resultado da simulação ao lado.
 
+   <img width="848" height="595" alt="image" src="https://github.com/user-attachments/assets/1341c461-505c-44d4-a00d-0346fea3d6a9" />
+
+
 ## 👨‍💻 Autor
 [Eduardo Martins da Cunha]
 [https://www.linkedin.com/in/engeduardocunha]
