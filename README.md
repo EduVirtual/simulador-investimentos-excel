@@ -23,5 +23,5 @@ Desafio proposto pela [DIO](https://www.dio.me/) no bootcamp de Excel.
 4. Confira o resultado da simulação ao lado.
 
 ## 👨‍💻 Autor
-[Seu Nome]
-[Link para seu LinkedIn]
+[Eduardo Martins da Cunha]
+[https://www.linkedin.com/in/engeduardocunha]
